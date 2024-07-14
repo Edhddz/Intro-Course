@@ -1,0 +1,10 @@
+PERL
+
+* No data type specification required
+* It only has 3 data types: Scalar, Array and Hashes
+* Scalar starts with $
+* Array starts with @
+
+* It automatically takes int or string values (both are scalar for perl)
+* All scalar values are initialized to 0
+
